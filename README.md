@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-- This app does not collect user data.
+- This app does not collect personal data.
 
 ## Terms of Service
 
