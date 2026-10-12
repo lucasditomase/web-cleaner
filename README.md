@@ -1,11 +1,11 @@
 # Web Cleaner
 
-## Privacy Policy
+## [Privacy Policy](privacy-policy.md)
 
 - This app does not collect personal data.
 
-## Terms of Service
+## [Terms of Service](terms-of-service.md)
 
 - This app is the sole property of its developer.
 
-### [Customer Support](mailto:rescates.jarrazo-7u@icloud.com?subject=Web%20Cleaner)
+### [Customer Support](support.md)
